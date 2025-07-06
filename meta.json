@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "1.6.0",
+        "releasedAt": 1751830904258,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/Mackery6969/Raspberry-Patched-Updator/raw/refs/heads/main/Raspberry%20Patched.zip"
+            }
+        }
+    }
   ]
 }
