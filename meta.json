@@ -10,6 +10,15 @@
                 "generic": "https://github.com/Mackery6969/Raspberry-Patched-Updator/raw/refs/heads/main/Raspberry%20Patched.zip"
             }
         }
+    },
+    {
+        "id": "1.6.1",
+        "releasedAt": 1751830904258,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/Mackery6969/Raspberry-Patched-Updator/raw/refs/heads/main/Raspberry%20Patched.zip"
+            }
+        }
     }
   ]
 }
